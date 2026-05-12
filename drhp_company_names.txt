@@ -1,0 +1,663 @@
+total_rows=735
+unique_names=660
+---names---
+3B FILMS LIMITED
+3C IT Solutions and Telecoms (India) Limited
+AA Plus Tradelink Limited
+ACCELERATEBS INDIA LIMITED
+ACCORD TRANSFORMER & SWITCHGEAR LIMITED
+ADMACH SYSTEMS LIMITED
+ADON AGRO COMMODITIES LIMITED
+AEGEUS TECHNOLOGIES LIMITED
+AHASolar Technologies Limited
+AIK Pipes and Polymers Limited
+AIRFLOA RAIL TECHNOLOGY LIMITED
+AJC Jewel Manufacturers Limited
+ALPHALOGIC INDUSTRIES LIMITED
+AMANAYA VENTURES LIMITED
+AMBO AGRITEC LIMITED
+AMIC FORGING LIMITED
+AMRUT DREDGING AND SHIPPING LIMITED
+ANKIT GOLD LIMITED
+ANUBHAV PLAST LIMITED
+APTUS PHARMA LIMITED
+ARC DISTRIBUTORS (I) LIMITED
+ARROWHEAD SEPERATION ENGINEERING LIMITED
+ASARFI HOSPITAL LIMITED
+ASSOCIATED COATERS LIMITED
+ASSTON PHARMACEUTICALS LIMITED
+ATHARVA POLY-PLAST LIMITED
+Aashka Hospitals Limited
+Abram Food Limited
+Abril Paper Tech Limited
+Access Point India Limited
+Accretion Nutraveda Limited
+Ace Alpha Tech Limited
+Achyut Healthcare Limited
+Acme India Industries Limited
+Acme Universal Safezone 9 Limited
+Adcounty Media India Limited
+Adeshwar Meditex Limited
+Adishakti Loha and Ispat Limited.
+Advait Infratech Limited
+Advance Technoforge Limited
+Advantal Technologies Limited
+Aelea Commodities Limited
+Afcom Holdings Limited
+Ajwa Projects Limited
+Alkosign Limited
+Ameenji Rubber Limited
+Amkay Products Limited
+Amtech Esters Limited
+Amwill Health Care Limited
+Anand Rayons Limited
+Anand Seamless Limited
+Anmol India Limited
+Anuroop Packaging Limited
+Apana Logistics Limited
+Apollo Techno Industries Limited
+Archee Group Contracts Limited
+Archit Nuwood Industries Limited
+Aritas Vinyl Limited
+Artemis Electricals Limited
+Ashapuri Gold Ornament Limited
+Astonea Labs Ltd
+Astron Multigrain Limited
+Atam Valves Limited
+Aten Papers and Foam Limited
+Aureate Tradde Limited
+Austere Systems Limited
+Autofurnish Limited
+Avax Apparels And Ornaments Limited
+Avax Soft Technologies Limited
+Avtar Career Creators Limited
+Avyukta Dairy Products Limited
+Axiom consulting limited
+Aztec Fluids & Machinery Limited
+B-RIGHT REALESTATE LIMITED
+B. D. Industries (Pune) Limited
+B.R.Goyal Infrastructure Limited
+BAI-KAKAJI POLYMERS LIMITED
+BBG Industries Limited
+BENCHMARK COMPUTER SOLUTIONS LIMITED
+BLT LOGISTICS LIMITED
+Bedi Steels Limited
+Beezaasan Explotech Limited
+BharatRohan Airborne Innovations Limited
+Bhatia Colour Chem Limited
+Bhavik Enterprises Limited
+Billwin Industries Limited
+Bipin Offset Limited
+Bizotic Commercial Limited
+Black Opal Consultants Limited
+Bondada Engineering Limited
+Bonlon Industries Limited
+Brandbucket Media & Technology Limited
+Bright Outdoor Media Limited
+Brisk Technovision Limited
+Broach Lifecare Hospital Limited
+CFF FLUID CONTROL LIMITED
+CFF Fluid Control Ltd
+CLARA INDUSTRIES LIMITED
+CLINITECH LABORATORY LIMITED
+CLN Energy Limited
+COMMAND POLYMERS LIMITED
+COMRADE APPLIANCES LIMITED
+CONTAINE TECHNOLOGIES LIMITED
+CREATEROI FINANCIAL CONSULTANCY LIMITED
+CRYOGENIC OGS LIMITED
+CapitalNumbers Infotech Limited
+Cargosol Logistics Limited
+Cargotrans Maritime Limited
+Century Business Media Limited
+Chamelidevi Flour Mills Limited
+Chandra Bhagat Pharma Limited
+Chatha Foods Limited
+Chatterbox Technologies Limited
+Chemkart India Limited
+Chiraharit Limited
+Cian Healthcare Limited
+Citichem India Limited
+City Crops Agro Limited
+City Pulse Multiplex Limited
+Concord Control Systems Limited
+Core4 Engineers Limited
+Cosmic CRF Limited
+Cospower Engineering Limited
+Craftech Paper Mills Limited
+Crazy Snacks Limited
+Creativity At Best Technologies Limited
+DADA ORGANICS LIMITED
+DAPS ADVERTISING LIMITED
+DAVIN SONS RETAIL LIMITED
+DIPNA PHARMACHEM LIMITED
+DJ Mediaprint & Logistics Limited
+DMR HYDROENGINEERING & INFRASTRUCTURES LIMITED
+DSM Fresh Foods Limited
+Dachepalli Publishers Limited
+Datasol (Bangalore) Limited
+Deepak Chemtex Limited
+Defrail Technologies Limited
+Desco Infratech Limited
+Dev Labtech Venture Limited
+Devson Catalyst Limited
+Dharni Capital Services Limited
+Dhaval Packaging Limited
+Dhillon Freight Carrier Limited
+Dhnawel Hybrid Seeds Limited
+Dhyaani Tile and Marblez Limited
+Digilogic Systems Limited
+Diksha Polymers Limited
+Dindigul Farm Product Limited
+Dove Soft Limited
+Droneacharya Aerial Innovations Limited
+Dudani Retail Limited
+Durgadevi Raiment Limited
+EBOR INDUSTRIES LIMITED
+EKI Energy Services Limited
+ENPROCON ENTERPRISE LIMITED
+ENS Enterprises Limited
+EP Biocomposites Limited
+EUREKA CONVEYOR BELTINGS LIMITED
+EVOQ REMEDIES LIMITED
+Earkart Limited
+Earthstahl & Alloys Limited
+Earum Pharmaceuticals Limited
+Eastern Logica Infoway Ltd
+Efficient Fire and Security Solutions Limited
+Eighty Jewellers Limited
+Ekennis Software Service Limited
+Elfin Agro India Limited
+Emiac Technologies Limited
+Emmforce Autotech Limited
+Essex Marine Limited
+Euphoria Infotech (India) Limited
+Evans Electric Limited
+EverestIMS Technologies Limited
+Exato Technologies Limited
+Exhicon Events Media Solutions Limited
+FAALCON CONCEPTS LIMITED
+FCML Distributors Limited
+FFS Defence Engineering Limited
+FINELISTINGS TECHNOLOGIES LIMITED
+FLYWINGS SIMULATOR TRAINING CENTRE LIMITED
+FX Multitech Limited
+Fabino Life Sciences Limited
+Fabtech Technologies Cleanrooms Limited
+Farm Peace Limited
+Fine Refiners Limited
+Fly-Hi Maritime Travels Limited
+Focus Business Solution Limited
+Fone4 Communications (India) Limited
+FourFront Limited
+Fractal Industries Limited
+Fusion Klassroom Edutech Limited
+Futurex Management Solution Limited
+G M Polyplast Limited
+G V ELECTRICALS LIMITED
+G. K. P. Printing & Packaging Limited
+GABION TECHNOLOGIES INDIA LIMITED
+GAME CHANGERS TEXFAB LIMITED
+GB Logistics Commerce Limited
+GEM Enviro Management Limited
+GOVINDAH NUTRITION LIMITED
+GRE RENEW ENERTECH LIMITED
+GRETEX CORPORATE SERVICES LIMITED
+GRUNE HAFEN LIMITED
+Gabriel Pet Straps Limited
+Galactico Corporate Services Limited
+Gallard Steel Limited
+Gconnect Logitech and Supply chain Limited
+Gensol Engineering Limited
+Getalong Enterprise Limited
+Gian Life Care Limited
+Gleam Fabmat Limited
+Glen Industries Limited
+Global Longlife Hospital and Research Limited
+Global Ocean Logistics India Limited
+Globtier Infotech limited
+Goblin India Limited
+Goblin India Ltd
+Goel Construction Company Limited
+Goel Food Products Limited
+Goldline Pharmaceutical Limited
+Grace Renewable Energy Limited
+Grandmaa International Limited
+Green Farm Bio-Gen  Limited
+Greenhitech Ventures Limited
+Greens Food Crafts India Limited
+Gujarat Peanut and Agri Products Limited
+Gulf Lloyds (India) Limited
+H. R. Hygiene Products Limited
+H.M. ELECTRO MECH LIMITED
+HEALTHY LIFE AGRITEC LIMITED
+HGI AUTOMOTIVES LIMITED
+HRS Aluglaze Limited
+Hamps Bio Limited
+Hannah Joseph Hospital Limited
+Harikanta Overseas Limited
+Harshdeep Hortico Limited
+Haru Worldwide Limited
+Helloji Holidays Limited
+Hemant Surgical Industries Limited
+Highness Microelectronics Limited
+Home Zone Rubber Solutions Limited
+Horizon Reclaim  (India) Limited
+Humming Bird Education Limited
+Hunger Choice Limited
+ICL Organic Dairy Products Ltd
+IDENTIXWEB LIMITED
+IKEDA LIMITED
+INDO SMC Limited
+INDOBELL INSULATIONS LIMITED
+INDONG TEA COMPANY LIMITED
+INFRAPRIME LOGISTICS TECHNOLOGIES LIMITED
+INNOKAIZ INDIA LIMITED
+INTERIORS & MORE LIMITED
+ISH TRAVEL & TOURS  LIMITED
+ITCONS E-SOLUTIONS LIMITED
+Icodex Publishing Solutions Limited
+Icon Facilitators Limited
+Infinity Infoway Limited
+Infonative Solutions Limited
+Injecto Polymers Limited
+Innovatus Entertainment Networks Limited
+Insolation Energy Limited
+Integrum Energy Infrastructure Limited
+JAY AMBE SUPERMARKETS LIMITED
+JAYANT INFRATECH LIMITED
+JD Cables Limited
+JEE Pumps Limited
+JETMALL SPICES AND MASALA LIMITED
+JJ PV SOLAR LIMITED
+JKV SOLUTIONS LIMITED
+Jain International Power Limited
+Jay Kailash Namkeen Limited
+Jinaam’s Dress Limited
+Jivial Industries Limited
+Jiya Eco India Limited
+Jungle Camps India Limited
+Justo Realfintech Limited
+K K Silk Mills Limited
+K. V. TOYS INDIA LIMITED
+KASLIWAL PROJECTS LIMITED
+KK Shah Hospitals Limited
+KP Green Engineering Limited
+KVS Castings Limited
+Kahali Craftistics Limited
+Kahan Packaging Limited
+Kaka Industries Limited
+Kalyani Cast-Tech Limited
+Kaneri Agro Industries Limited
+Kanishk Aluminium India Limited
+Kanone Technologies Limited
+Karbonsteel Engineering Limited
+Karma Ecotech Limited
+Kasturi Metal Composite Limited
+Katex Exim Limited
+Kedarnath Industries Limited
+Kelson Foods Limited - (Withdrawn)
+Kenrik Industries Limited
+Kesar India Limited
+Khazanchi Jewellers Limited
+Khyati Global Ventures Limited
+Kiaasa Retail Limited
+Kizi Apparels Limited
+Knowledge Marine & Engineering Works Limited
+Koura Fine Diamond Jewelry Limited
+Kranti Industries Limited
+Kratikal Tech Limited
+Krupalu Metals Limited
+Kuberan Global Edu Solutions Limited
+Kumjai Farms Limited
+Kwick Forensic Solutions Limited
+L. T. Elevator Limited
+L.K.Mehta Polymers Limited
+LABDHI COMMERCIALS LIMITED
+LAPL Automotive Limited
+LGT Business Connextions Limited
+LIOTECH INDUSTRIES LIMITED
+Labelkraft Technologies Limited
+Landmark Immigration Consultants Limited
+Larisa Hotels and Resorts Limited
+Leapfrog Engineering Services Limited
+Leo Dryfruits & Spices Trading Limited
+Liqvd Digital India Limited
+Locksworth Infrastructure Limited
+Logiciel Solutions Limited
+Lorven International Limited
+Luxury Time Limited
+M P K STEELS (I) LIMITED
+M.R.MANIVENI FOODS LIMITED
+MAAGH ADVERTISING AND MARKETING SERVICES LIMITED
+MACH CONFERENCES AND EVENTS LIMITED
+MAGENTA LIFECARE LIMITED
+MEHUL TELECOM LIMITED
+MILAN GINNING PRESSING LIMITED
+MILLWORKS TECHNOLOGIES LIMITED
+MRC Infracon Limited
+MRP Agro Limited
+MTE STRUCTURES LIMITED
+Macfos Limited
+Mafia Trends Limited
+Mahamaya Lifesciences Limited
+Maharaja & Speedex India Limited
+Mahip Industries Ltd
+Maiden Forgings Limited
+Malpani Pipes & Fittings Limited
+Mangal compusolution limited
+Mangalam Alloys Limited
+Manisha Textiles Limited
+Manoj Ceramic Limited
+Manoj Jewellers Limited
+Marc Loire Fashions Limited
+Markolines Traffic Controls Limited
+Maruti Interior Products Limited
+Matangi Rubber Limited
+Max Supreme Textiles Ltd
+Mayank Cattle Food Limited
+Meera Industries Ltd
+Mehul Colours Limited
+Merritronix Limited
+Meson Valves India Limited
+Meta Infotech Limited
+Methodhub Software Limited
+Mish Designs Limited
+Misquita Engineering Limited
+Mittal Sections Limited
+Modern Diagnostic & Research Centre Limited
+Modi's Navnirman Limited
+Monarch Surveyors and Engineering Consultants Limited
+Monika Alcobev Limited
+Mopshop Distribution Limited
+Mother Agri Food Limited
+Mother Nutri Foods Limited
+Msafe Equipments Limited
+N R GOLD LIMITED
+NACDAC Infrastructure Limited
+NAKSHATRA ASSET VENTURES LIMITED
+NAPS Global India Limited
+NATRINAI VENTURES LIMITED
+NATURO INDIABULL LIMITED
+NEETU YOSHI LIMITED
+NIS Management Limited
+NISUS FINANCE SERVICE CO LIMITED
+NSB BPO Solutions Limited
+NTL India Limited
+Nanavati Ventures Limited
+Nanta Tech Limited
+Narmadesh Brass Industries Limited
+Naturewings Holidays Limited
+Navkkar Gold & Diamond Limited
+Navoday Enterprises Limited
+Neev Credit Limited
+Neopolitan Pizza Limited
+Neptune Logitek Limited
+Neptune Holidays Limited
+Netanalytiks Technologies Limited
+New Swan Multitech Limited
+Nexxus Petro Industries Limited
+Nilachal Carbo Metalicks Limited
+Nimstech Industries Limited
+Nityanand Udyog Limited
+Northern Spirits Ltd
+Novateor Research Laboratories Limited
+Novus Loyalty Limited
+Nukleus Office Solutions Limited
+OSPYN Technologies Limited
+Olatech Solutions Limited
+Oliria Foods and Beverages Limited
+Om Galaxy Limited
+Om Metallogic Limited
+Omnipotent Industries Limited
+Oneindig Technologies Limited
+Oremet Alloys And Castings Limited
+Organic Recycling Systems Limited
+Oval Projects Engineering Limited
+PACE E-COMMERCE VENTURES LIMITED
+PAN HR Solution Limited
+PARAMOUNT SYNTEX LIMITED
+PARMESHWAR METAL LIMITED
+PATEL CHEM SPECIALITIES LIMITED
+PATRON EXIM LIMITED
+PDP Shipping & Projects Limited
+PNGS GARGI FASHION JEWELLERY LIMITED
+PRODOCS SOLUTIONS LIMITED
+PROSPECT COMMODITIES LIMITED
+Pajson Agro India Limited
+Paluck Technologies Limited
+Panchatv Bharat limited
+Paradeep Parivahan Limited
+Park Smart Solutions Limited
+Parshva Enterprises Limited
+Party Cruisers Limited
+Pearl Green Clubs and Resorts Limited
+Pentech Metals Limited
+Peshwa Wheat Limited
+Phychem Technologies Limited
+Phytochem Remedies (India) Limited
+Pind Hospitality Limited
+Piotex Industries Limited
+PlatinumOne Business Services Limited
+Poojaa Precision Engg. Limited
+Popular Foundations limited
+Praruh Technologies Limited
+Prevest Denpro Limited
+Promax Power Ltd
+Pune E - Stock Broking Limited
+Purple Wave Infocom Limited
+Qualitek Labs Limited
+Quality RO Industries Limited
+Quanto Agroworld Limited
+R. P. Multimetals Limited
+RAKSAN TRANSFORMERS LIMITED
+RAPID MULTIMODAL LOGISTICS LIMITED
+RAVIRAJ PROCESS CONTROLS LIMITED
+RCRS Innovations Limited
+REET PROJECTS LIMITED
+REETECH INTERNATIONAL CARGO AND COURIER LIMITED
+RESGEN LIMITED
+RETAGGIO INDUSTRIES LIMITED
+RETINA PAINTS LIMITED
+REX SEALING AND PACKING INDUSTRIES LIMITED
+RO Jewels Limited
+ROOPYAA FINBIZZ LIMITED
+RUKMANI DEVI GARG AGRO IMPEX LIMITED
+Rachit Prints Limited
+Radiant Innovative Manufacturing Limited
+Rainbow Crop Health Limited
+Rajat City Developers Limited
+Rajesh Power Services Limited
+Rajeshwari Cans Limited
+Rajnandini Fashion India Limited
+Ramsons Food Products Limited
+Rangoli Tradecomm Ltd
+Ratnadhar Infra Limited
+Ravelcare Limited
+Recode Studios Limited
+Repono Limited
+Resourceful Automobile Limited
+Resvera Wines Limited
+Rhetan TMT Limited
+Richesm Healthcare Limited
+Riddhi Display Equipments Limited
+Rikhav Securities Limited
+Ritco Logistics Limited
+Riyaasat Lifestyle Limited
+Roopa Screen Limited
+Roopshri Resorts Limited
+Rosmerta Digital Services Limited
+Royal Sense Limited
+Rudra Gas Enterprise Limited
+S. V. J. ENTERPRISES LIMITED
+SAFETY CONTROLS & DEVICES LIMITED
+SAILANI TOURS N TRAVELS LIMITED
+SAN TRICA REALTORS LIMITED
+SANJEEVANI AGROFOODS LIMITED
+SATTRIX INFORMATION SECURITY LIMITED
+SBC Exports Limited
+SBL Infratech Limited
+SBS Food Courts Limited
+SEVEN SEAZ VACATIONS LIMITED
+SHANTIDOOT INFRA SERVICES LIMITED
+SHELTER PHARMA LIMITED
+SHREENATH PAPER PRODUCTS LIMITED
+SHREYAS FABTECH LIMITED
+SJP ULTRASONICS LIMITED
+SK International Export Limited
+SK Minerals & Additives Limited
+SM Auto Stamping Limited
+SMR Jewels Limited
+SOLARIUM GREEN ENERGY LIMITED
+SPECIALITY MEDICINES LIMITED
+SSMD Agrotech India Limited
+STANBIK AGRO LIMITED
+STAR IMAGING AND PATH LAB LIMITED
+STEELMAN TELECOM LTD.
+STITCHED TEXTILES LIMITED
+SUBAM PAPERS LIMITED
+SUDARSHAN PHARMA INDUSTRIES LIMITED
+SUNITA TOOLS LIMITED
+SURIFRESH EXTRACT LIMITED
+SVS VENTURES LIMITED
+Safa Systems & Technologies Limited
+Safecure Services Limited
+Saffron Speciality Papers Limited
+Sahara Maritime Limited
+Sai Swami Metals and Alloys Limited
+Sai Urja Indo Ventures Limited
+Sakhiya Skin Clinic Limited
+Samor Reality Limited
+Sampark India Logistics Limited
+Sampat Aluminium Limited
+Sancode Technologies Limited
+Satol Chemicals Limited
+Scarnose International Limited
+Sealmatic India Limited
+Secmark Consultancy Limited
+Seemax Resources Limited
+Segmental Infrastructure Development Limited
+Shakti Polytarp Limited
+Sham Foam Limited
+Shanmuga Hospital Limited
+Shanti Spintex Limited
+Share Samadhan Limited
+Sharp Agricom Limited
+Sharvaya Metals Limited
+Shashwat Furnishing Solutions Limited
+Shayona Engineering Ltd.
+Shellz India Limited
+Shine Fashions (India) Limited
+Shining Tools Ltd
+Shipwaves Online Limited
+Shiv Texchem Limited
+Shivam Chemicals Limited
+Shivchem Agro limited
+Shlokka Dyes Limited
+Shoora Designs Limited
+Shree Balaji (Mala) Textiles Limited
+Shree Marutinandan Tubes Limited
+Shree Refrigerations Limited
+Shree TNB Polymers Limited
+Shreni Shares Limited
+Shri Balaji Valve Components Limited
+Shri Venkatesh Refineries Limited
+Sihora Industries Limited
+Silicon Rental Solutions Ltd
+Silver Pearl Hospitality & Luxury Spaces Limited
+Silverstorm Parks and Resorts Limited
+Siyaram Recycling Industries Limited
+Skill Tree Consulting Limited
+Sobo Films Holding Limited
+Sodhani Academy of Fintech Enablers Limited
+Sodhani Capital Limited
+Solar91 Cleantech Limited
+Sollfege Smart Electronics Limited
+Solvex Edibles Limited
+Sonalis Consumer Products Limited
+Sotefin Bharat Limited
+Spinaroo Commercial Limited
+Srigee DLM Limited
+Storage Technologies and Automation Limited
+Sugs Lloyd Limited
+Suich Industries Limited
+Sunrise Efficient Marketing Limited
+Sunsky Logistics Limited
+Super Iron Foundry Ltd
+Supertech EV Ltd
+Suratwwala Business Group Limited
+Susan Electricals India Limited
+Suyog Gurbaxani Funicular Ropeways Limited
+Swashthik Plascon Limited
+Swasth Foodtech India Limited
+Swastika Castal Ltd
+Systematic Industries Limited
+TGIF Agribusiness Ltd
+TRANSTEEL SEATING TECHNOLOGIES LIMITED
+TRUE COLORS LIMITED
+Taiyo Feed Mill Limited
+Takyon Networks Limited
+Taldar Hotels and Resorts Limited
+Techknowgreen Solutions Limited
+Technichem Organics Limited
+Technocrats Plasma Systems Limited
+Technopack Polymers Ltd.
+Technowire Data Science Limited
+Telge Projects Limited
+Three M Paper Boards Limited
+Times Green Energy (India) Limited
+Tipco Engineering India Limited
+Topsun Energy Limited
+Toss the Coin Limited
+Trafiksol ITS Technologies Limited
+Transvoy Logistics India Limited
+Travels & rentals Limited
+Trident Lifeline Limited
+Turtle Infratrade Limited
+Tutorials Point (India) Limited
+Twinkle Papers limited
+UHM Vacation Limited
+UNITED TECHFAB LIMITED
+Udaan Paper Industries Limited
+Ullu Digital Limited
+Ultra Rich Weddings Limited
+Umiya Mobile Limited
+Unified Data- Tech Solutions Limited
+Unisem Agritech Limited
+United Cotfab Limited
+V R FILMS & STUDIOS LIMITED
+VARYAA CREATIONS LIMITED
+VDOIT TECHNOLOGIES LIMITED
+VK TYRE INDIA LIMITED
+VVIP Infratech Limited
+Vahh Chemicals Limited
+Valencia India Limited
+Valplast Technologies Limited
+Vama Wovenfab Limited
+Vandan Foods Limited
+Vashishtha Luxury Fashion Limited
+Vectras Enprocon Limited
+Vedant Asset Ltd
+Veefin Solutions Limited
+Veer Global Infraconstruction Limited
+Veerkrupa Jewellers Limited
+Vegorama Punjabi Angithi Limited
+Viraunique Realtors Limited
+Virtuoso Optoelectronics Limited
+Visaman Global Sales Limited
+Vision Time India Limited
+Vivaa Tradecom Limited
+Vruddhi Engineering Works Limited
+Vrundavan Plantation Limited
+Vyara Tiles Limited
+WESTERN OVERSEAS STUDY ABROAD LIMITED
+Wagons Learning Limited
+Welpar Pharmbizz Limited
+White Organic Retail Limited
+Workmates Core2Cloud Solution Limited
+YAASHVI JEWELLERS LIMITED
+Yajur Fibres Limited
+Yash Highvoltage Limited
+Yashhtej Industries (India) Limited
+Zebion Infotech Limited
+Zelio E-Mobility Limited

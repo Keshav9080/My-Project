@@ -1,0 +1,19 @@
+Step 9 QA
+input_file=icp_shortlist_step8_clean.csv
+QA_reference_date=2026-05-12
+narrative_years_flag_stale_if_year_le=2022
+total_input=420
+total_flagged_base_rules=234
+total_calibration_added=66
+total_flagged=300
+total_retained_clean=120
+
+QA tag counts:
+  weak_differentiation_drhp_generics=168
+  calibration_review_queue_step10=66
+  iso_only_differentiation_no_sector_moat=62
+  generic_web_or_thin_ops_narrative=57
+  stale_temporal_signal=16
+  borderline_stale_temporal_signal=2
+  certification_or_license_expiry_language=1
+

@@ -1,0 +1,117 @@
+ICP final outputs summary
+========================
+
+1) Input volumes (source files feeding merge_unified_icp)
+    drhp_companies_specified_format.csv rows: 735
+    final_merged_dsir_promoters.csv rows:        832
+    data_with_dsir_recognition.csv rows:         1206
+    Sum of above three (includes overlaps):      2773
+
+2) Deduped scored universe (merge_unified_icp + Step 7 output)
+    icp_shortlist_top1000_llm_scored.csv rows: 846
+
+3) Step 8 hard filters
+    Retained (icp_shortlist_step8_clean.csv): 420
+    Rejected (icp_step8_rejects.csv):        426
+
+4) Step 9 QA split (runs on Step 8 retained cohort)
+    Flagged (icp_step9_flagged.csv): 300
+    Clean   (icp_step9_clean.csv):   120
+
+5) Final deliverables (this run)
+    icp_final_master.csv rows:    846
+    icp_final_shortlist.csv rows: 420 (cap=1000, deduped)
+    icp_final_rejects.csv rows:   426
+
+6) Retention funnel
+    Scored universe -> Step8 retained: 420/846 = 49.6%
+    Step8 retained -> Step9 clean:      120/420 = 28.6%
+
+7) Industry Segment (normalized) — icp_final_master cohort
+     419  unspecified_see_drhp
+     222  unknown
+     183  Manufacturing / Industrial
+       2  Pharma / Biotech
+       2  Industry Segment
+       1  Media / Entertainment
+       1  Food / Agriculture
+       1  which one can evaluate our business, future prospects and viability.
+       1  Offer Size and Pre-Offer Shareholding of Promoters, Promoter Group and Promoter Selling Shareholder as a percentage of
+       1  page 23 of the Draft Red Herring Prospectus as follows:
+       1  3. Majority of our revenues are dependent on few customers and the loss of, or a significant reduction in purchases by s
+       1  As on date of the Draft Prospectus, our Company has been using the following brand names for marketing and distribution
+       1  c) Under the head Overview of Our Business on Page 135, the standalone revenue breakup and State wise revenue breakup ha
+       1  investors may not have access to comparable industry metrics when evaluating
+       1  21. In Chapter titled “Our Management” beginning on Page 163 of the Draft Red Herring Prospectus, table of ‘ Family Rela
+       1   The Following Changes or Updation has been incorporated under the chapter “
+       1  Financial Services
+       1  9. We are involved in certain legal proceedings, which, if determined adversely, may affect
+       1  lease agreements may have certain irregularities because of which we may be unable to effectively enforce
+       1  11. In the past our Company has paid late filing fees for non -compliances with certain provisions of the lab
+       1  dermatology-focused healthcare services provider in India, with a long -standing operational history, we endeavour to su
+       1  significant customers or the inability to procure new orders on a regular basis or at all may have an adverse effect on
+       1  Construction / Infra
+
+8) Revenue Band — icp_final_master cohort
+     402  Extract from restated financials in DRHP (pattern not matched).
+     222  unknown
+      36  ₹70–120 Cr
+      30  ₹80–150 Cr
+      24  ₹120–200 Cr
+      19  ₹90–160 Cr
+      11  ₹100–180 Cr
+      11  ₹25–100 Cr (approx from lakhs)
+      11  ₹30–60 Cr
+      11  ₹50–90 Cr
+      11  ₹60–100 Cr
+      11  ₹100–200 Cr
+      10  ₹0–5 Cr (approx from lakhs)
+       9  ₹5–25 Cr (approx from lakhs)
+       5  ₹40–80 Cr
+       5  ₹40–70 Cr
+       4  ₹100+ Cr (approx from lakhs)
+       3  ₹2 Cr (stated)
+       3  ₹3 Cr (stated)
+       2  ₹50–100 Cr
+       2  ₹1 Cr (stated)
+       2  Revenue Band
+
+9) Top tailwind tokens (pipe-split Tailwinds) — master
+     842  bse_sme_ipo_drhp_pipeline
+     217  capacity_expansion_tailwind
+     186  workforce_scaling_signal
+     183  make_in_india_manufacturing
+     176  capital_markets_ipo_activity
+       2  pharma_formulations_tailwind
+       1  agri_food_processing_tailwind
+
+10) Top tailwind tokens — icp_final_shortlist cohort
+     420  bse_sme_ipo_drhp_pipeline
+     175  make_in_india_manufacturing
+     171  capital_markets_ipo_activity
+     116  capacity_expansion_tailwind
+     101  workforce_scaling_signal
+       1  pharma_formulations_tailwind
+       1  agri_food_processing_tailwind
+
+11) ICP criterion coverage % (binary columns = 1) — master cohort
+    C1: 21.9%
+    C2: 38.3%
+    C3: 12.5%
+    C4: 51.4%
+    C5: 99.9%
+    C6: 58.3%
+
+12) ICP criterion coverage % — icp_final_shortlist cohort
+    C1: 41.9%
+    C2: 63.1%
+    C3: 16.7%
+    C4: 35.2%
+    C5: 100.0%
+    C6: 82.6%
+
+Artifacts:
+    icp_final_master.csv
+    icp_final_shortlist.csv
+    icp_final_rejects.csv
+    icp_final_summary.txt

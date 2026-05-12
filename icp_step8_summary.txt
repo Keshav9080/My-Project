@@ -1,0 +1,14 @@
+Step 8 ICP clean
+input_file=icp_shortlist_top1000_llm_scored.csv
+total_input=846
+total_retained=420
+total_eliminated=426
+freq_ancillary_cut=22
+dynamic_ancillary_hosts=5
+
+Reject tag counts (rows may have multiple tags only when noted; dedupe rows use compound tags):
+  no_website_url=222
+  duplicate_dedupe=200
+  basis:website_host=200
+  trading_import_export_name_keyword=2
+  website_only_ancillary_domains=2

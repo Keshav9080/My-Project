@@ -1,0 +1,12 @@
+merge_icp_step9_cin.py summary
+total_rows=120
+already_had_cin=6
+filled_from_union_pipeline_csv=0
+filled_from_source_mega_blob=0
+filled_from_step9_text_columns=0
+filled_from_full_row_regex_scan=0
+filled_from_drhp_pdf_fetch=0
+still_blank=114
+
+fetch_drhp_pdf=False
+DRHP PDF attempts:

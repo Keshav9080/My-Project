@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+
+# ~4.4 GB of downloaded PDFs/zips; breaks HTTPS push (408 timeouts). Files stay on disk locally.
+_drhp_promoter_cache/
